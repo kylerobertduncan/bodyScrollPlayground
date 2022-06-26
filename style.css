@@ -44,6 +44,11 @@ nav button {
   min-height: 100px;
   width: 100%;
   position: fixed;
+  transition: height 2s;
+}
+
+.shrink {
+  height: 25%;
 }
 
 .mapSpace {
